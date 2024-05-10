@@ -16,7 +16,6 @@
 
     <build>
         <plugins>
-
             <plugin>
                 <artifactId>maven-jar-plugin</artifactId>
                 <configuration>
